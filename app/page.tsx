@@ -303,7 +303,6 @@ export default function Home() {
               image="/placeholder.svg?height=300&width=500"
               tags={["Next.js", "TypeScript", "Tailwind CSS",]}
               githubLink="https://github.com/Holarmitidey/portfolio"
-              demoLink="https://project4-demo.example.com"
             />
 
             <ProjectCard
