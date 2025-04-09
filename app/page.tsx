@@ -302,7 +302,7 @@ export default function Home() {
               description="A responsive portfolio website built with modern web technologies to showcase projects and skills."
               image="/placeholder.svg?height=300&width=500"
               tags={["Next.js", "TypeScript", "Tailwind CSS",]}
-              githubLink="https://github.com/Holarmitidey/project4"
+              githubLink="https://github.com/Holarmitidey/portfolio"
               demoLink="https://project4-demo.example.com"
             />
 
